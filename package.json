@@ -1,0 +1,29 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "devc benin code challenge day 28",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^25.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevCbenin/code-challenge-javascript-day-28.git"
+  },
+  "keywords": [
+    "challenge",
+    "facebook",
+    "devc",
+    "benin-city"
+  ],
+  "author": "damilare sanusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevCbenin/code-challenge-javascript-day-28/issues"
+  },
+  "homepage": "https://github.com/DevCbenin/code-challenge-javascript-day-28#readme"
+}
