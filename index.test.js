@@ -1,6 +1,6 @@
 
 
-const Convert = require('./index');
+const convert = require('./index');
 
 describe('Converter', () => {
   test('single bit one to decimal', () => {
